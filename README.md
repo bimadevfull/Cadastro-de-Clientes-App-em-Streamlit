@@ -37,7 +37,7 @@ Este projeto oferece uma interface web leve (via Streamlit) onde você pode:
 
 1. Abra o terminal / PowerShell e navegue até a pasta do projeto:
 ```bash
-cd "C:\Users\<seu_usuario>\Desktop\primeiro projeto"
+cd "C:\Users\<seu_usuario>\Desktop\seu nome projeto"
 ```
 
 2. (Opcional, recomendado) Crie e ative um ambiente virtual:
